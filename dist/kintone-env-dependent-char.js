@@ -18,7 +18,7 @@ function _asyncToGenerator(n) { return function () { var t = this, e = arguments
 
 
 // リモートリポジトリ
-// https://github.com/takokke/kintone-yutaka-test-shipping-information
+// https://github.com/takokke/kintone-yutaka-test-design-proofreading
 (function () {
   'use strict';
 
